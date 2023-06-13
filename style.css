@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar {
+    background-color: #FA0050;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 10px;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* 나머지 CSS 스타일들 */
